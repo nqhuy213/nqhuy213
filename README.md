@@ -3,10 +3,10 @@
 ## I'm a Software Engineer!!
 
 - 👨‍💻 I'm current working in [ServiceRocket][companywebsite] 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning to be DevOps Engineer 🤣
 - 👯 I’m looking to connect with other techies
-- 🥅 2022 Goals: Contributing to development of apps for Jira products
-- ⚡ Fun fact: I love to play soccer, poker
+- 🥅 Contributing to development of apps for Atlassian products
+- ⚡ Fun fact: I love to play football, pool
 
 ### Connect with me:
 
