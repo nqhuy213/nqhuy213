@@ -3,10 +3,8 @@
 ## I'm a Software Engineer!!
 
 - 👨‍💻 I'm current working in [ServiceRocket][companywebsite] 
-- 🌱 I’m currently learning to be DevOps Engineer 🤣
+- 🌱 I’m currently contributing to development of apps for Atlassian products
 - 👯 I’m looking to connect with other techies
-- 🥅 Contributing to development of apps for Atlassian products
-- ⚡ Fun fact: I love to play football, pool
 
 ### Connect with me:
 
